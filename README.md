@@ -1,3 +1,5 @@
-# Thesis Template
+# Master Thesis Report
 
-A LaTeX template for typesetting theses in Persian.
+'Medical Images Segmentation Using Deep Learning Methods'
+
+My final project report in Persian language with LaTEX.
